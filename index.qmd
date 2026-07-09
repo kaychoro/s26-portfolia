@@ -1,10 +1,13 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "about Brother Kay"
+subtitle: "Data Science Portfolio"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
+# Brother Kay at BYU-Idaho
+
+[Link text](https://web.byui.edu/Directory/Employee/kaya.jpg)
+
 ## Title 2 Header
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
