@@ -6,7 +6,7 @@ subtitle: "Data Science Portfolio"
 
 # Brother Kay at BYU-Idaho
 
-[Link text](https://web.byui.edu/Directory/Employee/kaya.jpg)
+![Link text](https://web.byui.edu/Directory/Employee/kaya.jpg)
 
 ## Title 2 Header
 
