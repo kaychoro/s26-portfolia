@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Brother Kay's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aaron Kay
+Computer Scientist, BYU-Idaho professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
